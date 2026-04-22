@@ -1,0 +1,55 @@
+{
+  "product": "AutoStream",
+  "description": "AutoStream is a SaaS platform that provides automated video editing tools for content creators.",
+  "plans": {
+    "basic": {
+      "name": "Basic Plan",
+      "price_monthly": 29,
+      "videos_per_month": 10,
+      "resolution": "720p",
+      "features": [
+        "10 videos per month",
+        "720p resolution",
+        "Basic auto-cut and trim",
+        "Standard templates"
+      ],
+      "support": "Email support (business hours)"
+    },
+    "pro": {
+      "name": "Pro Plan",
+      "price_monthly": 79,
+      "videos_per_month": "unlimited",
+      "resolution": "4K",
+      "features": [
+        "Unlimited videos",
+        "4K resolution",
+        "AI-generated captions",
+        "Advanced editing tools",
+        "Priority rendering",
+        "Custom branding & watermarks",
+        "Analytics dashboard"
+      ],
+      "support": "24/7 support"
+    }
+  },
+  "policies": {
+    "refund": "No refunds are offered after 7 days from the date of purchase.",
+    "support": "24/7 support is available exclusively on the Pro plan. Basic plan users receive email support during business hours.",
+    "free_trial": "A 7-day free trial is available for the Pro plan.",
+    "cancellation": "You can cancel your subscription at any time. Access continues until the end of the billing period."
+  },
+  "faq": [
+    {
+      "question": "What platforms does AutoStream support?",
+      "answer": "AutoStream supports direct publishing to YouTube, Instagram, TikTok, and Twitter/X."
+    },
+    {
+      "question": "Can I upgrade or downgrade my plan?",
+      "answer": "Yes, you can upgrade or downgrade at any time. Changes take effect on the next billing cycle."
+    },
+    {
+      "question": "Is there a free plan?",
+      "answer": "There is no permanent free plan, but we offer a 7-day free trial on the Pro plan."
+    }
+  ]
+}
