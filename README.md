@@ -4,9 +4,10 @@
 A conversational AI agent built with LangGraph that handles product inquiries and captures qualified leads for AutoStream, a fictional SaaS video editing platform.
 
 ---
+
 ## Demo Video
 
-[Watch the demo on YouTube](youtu.be/8r6bV5lNm2s)
+[Watch the demo on YouTube](https://www.youtube.com/watch?v=8r6bV5lNm2s)
 
 ## How to Run Locally
 
